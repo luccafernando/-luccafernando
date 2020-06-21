@@ -35,5 +35,5 @@ Meu nome é Lucca Fernando André, meus amigos me chamam apenas de **Lucca** e a
  Costumo estudar novas stacks e tecnologias por **hobby**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, ultimamente tenho me aprofundado bastante na área de **Front-end web**, sempre resolvo parte dos meus problemas mais difíceis com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum**
  
 ## :speech_balloon: Redes Sociais
-*  [**Facebook**] (https://www.facebook.com/lucca.andre.3/)
-*  [**Linkedin**] (https://www.linkedin.com/in/luccafernando/)
+*  [**Facebook**](https://www.facebook.com/lucca.andre.3/)
+*  [**Linkedin**](https://www.linkedin.com/in/luccafernando/)
