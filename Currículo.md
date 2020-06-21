@@ -6,9 +6,7 @@
 :envelope:  **poklucca@hotmail.com**
 
 ## Sobre Mim
-Meu nome é Lucca Fernando André, alguns amigos mais proximos me chamam de **'Lucão'**, nasci em Ribeirão Preto e morei em Sertãozinho até metade dos meus 17 anos, que foi quando mudei para Uberlândia para cursar física, e agora estou migrando para a area da computação e me especializando em **JavaScript**. Atualmente ocupo a maior parte do meu tempo aprendendo, então a maior parte do meu tempo livre eu passo evoluindomeu conhecimento. Atuo como professor particular de Ciências Exatas (Fisica, Quimica, Matemática) desde 2016 e como todo educador, amo a arte de ensinar e aprender, pois quem ensina, aprende duas vezes! 
-Procuro uma oportunidade de estágio.
-
+Meu nome é Lucca Fernando André, alguns amigos mais proximos me chamam de **'Lucão'**. Nasci em Ribeirão Preto e morei em Sertãozinho até metade dos meus 17 anos, quando mudei para Uberlândia para cursar Física. Agora estou migrando para a area da computação e me especializando em **JavaScript**. Atualmente ocupo a maior parte do meu tempo aprendendo, então passo meu tempo livre evoluindo meu conhecimento. Atuo como professor particular de Ciências Exatas (Fisica, Quimica, Matemática) desde 2016 e, como todo educador, amo a arte de ensinar e aprender, pois quem ensina, aprende duas vezes! *Procuro uma oportunidade de estágio*.
 ### Gerais
 * Lógica de Programação intermediária.
 * Inglês mais que suficiente para ler e entender.
