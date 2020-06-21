@@ -22,7 +22,7 @@ Meu nome é Lucca Fernando André, meus amigos me chamam apenas de **Lucca** e a
     * ReactJs
     * React Native
 
-### :muscle: Outras Linguagens de Programação que tenho conhecimento
+### Outras Linguagens de Programação que tenho conhecimento
 * C 
 * Python
 * Kotlin
