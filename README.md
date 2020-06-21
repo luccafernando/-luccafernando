@@ -36,4 +36,4 @@ Meu nome é Lucca Fernando André, meus amigos me chamam apenas de **Lucca** e a
  
 ## :speech_balloon: Redes Sociais
 *  [**Facebook**] (https://www.facebook.com/lucca.andre.3/)
-*  [**Linkedin**](https://www.linkedin.com/in/luccafernando/)
+*  [**Linkedin**] (https://www.linkedin.com/in/luccafernando/)
