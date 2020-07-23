@@ -31,7 +31,7 @@ Nasci em Ribeirão Preto e morei em Sertãozinho até metade dos meus 17 anos, q
 * Linux
 
 ## Oque Estudo?
- Além de buscar atuar profissionalmente com programação, também pesquiso novas tecnologias e inovações de desenvolvimento web por hobby. Adoro programar e estou sempre pesquisando à respeito sobre os novos métodos e como posso aprimorar minhas habilidades na área. Ultimamente tenho me aprofundado bastante na área de Front-end web. Grande parte dos meus problemas difíceis na qual não consigo resolver sozinho compesquisas, conto com auxílio de alguns devs mais experiente que conheço. Sou adepto a metodologias ágeis como Scrum.
+ Além de buscar atuar profissionalmente com programação, também pesquiso novas tecnologias e inovações de desenvolvimento web por hobby. Adoro programar e estou sempre pesquisando à respeito sobre os novos métodos e como posso aprimorar minhas habilidades na área. Ultimamente tenho me aprofundado bastante na área de **Front-end web**. Grande parte dos meus problemas difíceis na qual não consigo resolver sozinho compesquisas, conto com auxílio de alguns devs mais experiente que conheço. Sou adepto a metodologias ágeis como Scrum.
  
 ## Redes Sociais
 *  [**Linkedin**](https://www.linkedin.com/in/luccafernando/)
