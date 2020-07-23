@@ -6,8 +6,7 @@
 :envelope:  **poklucca@hotmail.com**
 
 ## Sobre Mim
-Meu nome é Lucca Fernando André, alguns amigos mais proximos me chamam de **'Lucão'**. Nasci em Ribeirão Preto e morei em Sertãozinho até metade dos meus 17 anos, quando mudei para Uberlândia para cursar Física. Agora estou migrando para a area da computação e me especializando em **JavaScript**. Gosto muito de passar meu tempo livre com jogos de raciocínio estratégico, mas atualmente ocupo a maior parte do meu tempo aprendendo sobre Front-end web, então passo meu tempo livre evoluindo meu conhecimento. Atuo como professor particular de Ciências Exatas (Fisica, Quimica, Matemática) desde 2016 e, como todo educador, amo a arte de ensinar e aprender, pois quem ensina, aprende duas vezes! 
-*Procuro uma oportunidade de estágio*.
+Nasci em Ribeirão Preto e morei em Sertãozinho até metade dos meus 17 anos, quando mudei para Uberlândia para cursar Física. Agora com 19 anos, estou migrando para a área da Computação e me especializando em JavaScript. Apesar de gostar muito de passar meu tempo livre com jogos de raciocínio estratégico, tenho investido a maior parte dele estudando Front-end web. Atuo como professor particular de Ciências Exatas (Física, Química, Matemática) desde 2016 e, como todo educador, amo a arte de ensinar e aprender, pois aprendo muito ensinando. *Procuro uma oportunidade de estágio*.
 
 ### Gerais
 * Lógica de Programação intermediária.
@@ -32,7 +31,7 @@ Meu nome é Lucca Fernando André, alguns amigos mais proximos me chamam de **'L
 * Linux
 
 ## Oque Estudo?
- Além de buscar atuar profissionalmente com programação, também pesquiso novas tecnologias e inovações de desenvolvimento web por hobby. Adoro programar e estou sempre pesquisando à respeito sobre os novos métodos e como posso aprimorar minhas habilidades na área . Adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação. Ultimamente tenho me aprofundado bastante na área de **Front-end web**. Grande parte dos meus problemas difíceis na qual não consigo resolver sozinho com pesquisas, conto com auxílio de alguns devs mais experiente que conheço. Sou adepto a metodologias ágeis como Scrum.
+ Além de buscar atuar profissionalmente com programação, também pesquiso novas tecnologias e inovações de desenvolvimento web por hobby. Adoro programar e estou sempre pesquisando à respeito sobre os novos métodos e como posso aprimorar minhas habilidades na área. Ultimamente tenho me aprofundado bastante na área de Front-end web. Grande parte dos meus problemas difíceis na qual não consigo resolver sozinho compesquisas, conto com auxílio de alguns devs mais experiente que conheço. Sou adepto a metodologias ágeis como Scrum.
  
 ## Redes Sociais
 *  [**Linkedin**](https://www.linkedin.com/in/luccafernando/)
