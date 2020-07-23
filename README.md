@@ -17,7 +17,6 @@ Meu nome é Lucca Fernando André, alguns amigos mais proximos me chamam de **'L
 * HTML5 / CSS3  
 * JavaScript
     * ReactJs
-    * React Native
 
 ### Linguagens de Programação que tenho conhecimento
 * Java Script
