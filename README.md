@@ -7,7 +7,8 @@
 
 ## Sobre Mim
 Nasci em Ribeirão Preto e morei em Sertãozinho até metade dos meus 17 anos, quando mudei para Uberlândia para cursar Física. Agora estou migrando para a área da Computação e me especializando em JavaScript. Apesar de gostar muito de passar meu tempo livre com jogos de raciocínio estratégico, tenho investido a maior parte dele estudando Front-end web. Atuo como professor particular de Ciências Exatas (Física, Química, Matemática) desde 2016 e, como todo educador, amo a arte de ensinar e aprender, pois aprendo muito ensinando. Atualmente devido a pandemia de coronavirus mudei para sertãozinho novamente.
-*Procuro uma oportunidade de estágio*. *Procuro emprego para sustento na quarentena*
+&nbsp
+*Procuro emprego para sustento na quarentena*
 
 ### Gerais
 * Lógica de Programação intermediária.
