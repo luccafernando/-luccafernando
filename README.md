@@ -1,6 +1,6 @@
 Lucca Fernando André
 Brasileiro, solteiro, 22 anos
-🏠Rua Voluntário Otto Gomes Martins nº 1202 – Sertãozinho/SP (CEP – 14160-730) 📱Cel. (16) 988498304 ✉E-mail. poklucca@hotmail.com
+🏠Rua Voluntário Otto Gomes Martins nº 1202 – Sertãozinho/SP (CEP – 14160-730) 📱Cel. (16) 988498304 ✉E-mail. luccario.lfa@gmail.com
 Objetivo
 • Estágio e/ou oportunidade de ganhar experiência
 Assimilo rápido o que me é proposto, além de fazer tudo cautelosamente para que não haja erros, visto que procuro aproveitar o máximo possível das oportunidades que me são apresentadas.
